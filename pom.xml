@@ -605,7 +605,7 @@
 		<groovy.version>3.0.10</groovy.version>
 		<servlet.version>3.1.0</servlet.version>
 		<jackson.version>2.13.2</jackson.version>
-		<jacksondatabind.version>2.13.2.1</jacksondatabind.version>
+		<jacksondatabind.version>2.13.4.2</jacksondatabind.version>
 		<tika.version>1.24.1</tika.version>
 	</properties>
 </project>
